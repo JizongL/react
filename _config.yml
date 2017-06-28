@@ -1,0 +1,50 @@
+# Site settings
+name: react
+email: tmmreact2017@gmail.com
+author: tmmgeek
+url: http://tmmlab.com/
+resume_site: 
+github: https://github.com/luoyan35714/
+baseurl: "/react"
+description: Learning React is fun
+meta_description: tmmgeek's blog
+motto: It's our wits that make us men.
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: luoyan35714
+highlighter: Pygments
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
+FB:
+  comments :
+    provider : yungentie
+    duoshuo:
+        short_name : luoyan35714
+    disqus :
+        short_name : freudkang
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+# Gems
+gems: [jekyll-paginate]
+=======
+theme: jekyll-theme-cayman
+>>>>>>> d2f7b511a718a97711d8b71312ad4937f9d2a337
+=======
+theme: jekyll-theme-cayman
+>>>>>>> d2f7b511a718a97711d8b71312ad4937f9d2a337
